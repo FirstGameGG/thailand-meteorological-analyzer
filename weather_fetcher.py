@@ -17,7 +17,7 @@ REQUEST_TIMEOUT_SECONDS = 30
 MAX_RETRIES = 3
 BASE_BACKOFF_SECONDS = 1.0
 MAX_PARALLEL_WORKERS = 12
-ONI_SOURCE_URL = "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+ONI_SOURCE_URL = "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/"
 
 # Anchor the station master file to this module's directory so the app works
 # regardless of the current working directory it is launched from.

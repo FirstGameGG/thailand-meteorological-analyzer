@@ -142,7 +142,7 @@ flowchart LR
 
 - **Weather data:** [Meteostat](https://dev.meteostat.net/), provided under the
   [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-- **ONI data:** [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php).
+- **ONI data:** [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/).
 
 ## Notes & Caveats
 
